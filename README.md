@@ -1,5 +1,5 @@
 # Full Stack Open 2019
-Tässä kansiossa kurssin **Full Stack Open 2019** tehtävät seuraavanlaisessa
+Tässä kansiossa kurssin __**Full Stack Open 2019**__ tehtävät seuraavanlaisessa
 kansiorakenteessa:
 * Osa 0
 * Osa 1 
