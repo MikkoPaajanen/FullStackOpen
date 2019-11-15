@@ -3,6 +3,9 @@ Tässä kansiossa kurssin __*Full Stack Open 2019*__ tehtävät seuraavanlaisess
 kansiorakenteessa:
 * Osa 0
 * Osa 1 
+  * Anekdootit
+  * Kurssitiedot
+  * Unicafe
 
 
 __*Mikko Paajanen*__
