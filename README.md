@@ -6,6 +6,10 @@ kansiorakenteessa:
   * Anekdootit
   * Kurssitiedot
   * Unicafe
+* Osa 2
+  * Kurssitiedot
+  * Maidentiedot
+  * Puhelinluettelo
 
 
 __*Mikko Paajanen*__
